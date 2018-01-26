@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One of the challenges I've encountered when 
+One of the challenges I've encountered when I was attempting link the LiceCap gif onto the README.md file.
 
 ## License
 
